@@ -1,4 +1,7 @@
 # Nodemcu-Home-Automation-webServer
+
+
+
 This is a simple project to control home appliances from any locally connected devices(eg-Computer,Mobile,etc.)
 
 Downoald Arduino ide ->>https://www.arduino.cc/en/software
@@ -6,6 +9,16 @@ Downoald Arduino ide ->>https://www.arduino.cc/en/software
 
 Configuration for nodemcu in arduino ide 
 Go To File > Preferences > Under Aditional boards manager url paste ----> http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+
+Connect the board to your computer
+choose board (Tools > board > NodeMcu)
+Choose COM Port
+
+Change your SSID and Password
+
+Upload The Coad.................................................................................................
+
 
 #Connection of NodeMcu with the Relay Module
 
