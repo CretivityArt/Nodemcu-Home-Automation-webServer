@@ -31,4 +31,4 @@ pin4        >           D5
 GND         >           GND
 vcc > 5v
 
-Watch This Video For clear Explaination --->> 
+Watch This Video For clear Explaination --->> https://youtu.be/QK2w4zhR0QM?si=yEr-yoiln-QecNV8 
